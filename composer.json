@@ -3,6 +3,7 @@
     "description": "Use twig templating engine in Glue",
     "type": "library",
     "require": {
+        "php": ">=5.5.0",
         "twig/twig": "1.24.*"
     },
     "license": "MIT",
